@@ -1,15 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Jinwon%20Choi&fontSize=70&fontAlignY=40&animation=twinkling&desc=How%20보다%20Why를%20묻는%20데이터%20분석가&descSize=18&descAlignY=62)
+### Jinwon Choi · 최진원
 
-### 😊 About Me
+Applied Statistics @ Chung-Ang University.
+Working with statistics, ML, and a curiosity about *why* things work.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:munjwc25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jinwon25)
-
-> **숫자 너머의 가치를 발견하고, 데이터로 더 나은 대안을 제시하는 분석가 최진원입니다.**
->
-> 모델 성능 자체보다 *왜 이 방법을 선택했는지*,
-> 결과를 어떻게 *해석하고 전달*할 수 있는지에 집중합니다.
-> 데이터로 문제를 구조적으로 이해하고, 의사결정의 마지막 퍼즐을 맞춥니다.
+📍 Seoul &nbsp;·&nbsp; ✉️ [munjwc25@gmail.com](mailto:munjwc25@gmail.com)
 
 ---
 
