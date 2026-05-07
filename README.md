@@ -1,16 +1,66 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Jinwon%20Choi&fontSize=70&fontAlignY=40&animation=twinkling&desc=How%20보다%20Why를%20묻는%20데이터%20분석가&descSize=18&descAlignY=62)
 
-<!--
-**jinwon25/jinwon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😊 About Me
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:munjwc25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jinwon25)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **숫자 너머의 가치를 발견하고, 데이터로 더 나은 대안을 제시하는 분석가 최진원입니다.**
+>
+> 모델 성능 자체보다 *왜 이 방법을 선택했는지*,
+> 결과를 어떻게 *해석하고 전달*할 수 있는지에 집중합니다.
+> 데이터로 문제를 구조적으로 이해하고, 의사결정의 마지막 퍼즐을 맞춥니다.
+
+---
+
+### 🌳 Tech Stack
+
+**Language**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Analysis & ML/DL**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge)
+![SAS](https://img.shields.io/badge/SAS-1A6FBE?style=for-the-badge)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)
+
+**Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Tools**
+
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🏆 Awards
+
+- 🥇 **POSCO 청년 AI·Big Data 아카데미 32기** — **프로젝트 최우수상 / 성적 우수상** (2026)
+- 🥇 **제4회 중앙대학교 데이터분석 학회 DArt-B 학술제** — **대상** (2025) | *데이터 분석 · ML 모델링*
+- 🥇 **제3회 중앙대학교 데이터분석 학회 DArt-B 학술제** — **최우수상** (2024) | *데이터 분석*
+- 🥉 **2025 중앙대학교 경영경제대학 학술제** — **장려상** (2025) | *텍스트 마이닝 · 감정 분석*
+
+---
+
+### 💻 Projects (Highlight)
+
+| 프로젝트 | 역할 | 설명 |
+| --- | --- | --- |
+| **AI 홈 시네마 음향 자동 최적화** | 모델링 · 분석 | ConvNeXT·PANNs·Gate Fusion 기반 공간 인식 모델링 |
+| **새벽배송 고객 구매 패턴 & 수요 예측** | 데이터 분석 | RFM·코호트·연관·회귀분석으로 매출 증대 전략 도출 |
+| **피로도 지수 기반 투수 교체 가이드라인** | ML 모델링 | XGBoost·LightGBM·SHAP으로 실무 활용 가이드 제시 |
+| **취업 준비 과정 감정 데이터 분석** | NLP · 분석 | 감정 분류 + 토픽 모델링으로 취업 지원 제도 개선안 제시 |
+| **이커머스 고객 세분화 & 마케팅 전략** | 데이터 분석 | RFM 기반 세그먼트 정의 및 맞춤형 전략 도출 |
