@@ -1,6 +1,6 @@
 ### Jinwon Choi · 최진원
 
-Applied Statistics @ Chung-Ang University.
+Applied Statistics @ Chung-Ang University.  
 Working with statistics, ML, and a curiosity about *why* things work.
 
 📍 Seoul &nbsp;·&nbsp; ✉️ [munjwc25@gmail.com](mailto:munjwc25@gmail.com)
@@ -40,21 +40,21 @@ Working with statistics, ML, and a curiosity about *why* things work.
 
 ---
 
+### 💻 Projects
+
+| 프로젝트 | 역할 | 설명 |
+| :--- | :--- | :--- |
+| **AI 홈 시네마 음향 자동 최적화** | 모델링 · 분석 | ConvNeXT·PANNs·Gate Fusion 기반 공간 인식 모델링 |
+| **새벽배송 고객 구매 패턴 & 수요 예측** | 데이터 분석 | RFM·코호트·연관·회귀분석으로 매출 증대 전략 도출 |
+| **피로도 지수 기반 투수 교체 가이드라인** | ML 모델링 | XGBoost·LightGBM·SHAP으로 실무 활용 가이드 제시 |
+| **취업 준비 과정 감정 데이터 분석** | NLP · 분석 | 감정 분류 + 토픽 모델링으로 취업 지원 제도 개선안 제시 |
+| **이커머스 고객 세분화 & 마케팅 전략** | 데이터 분석 | RFM 기반 세그먼트 정의 및 맞춤형 전략 도출 |
+
+---
+
 ### 🏆 Awards
 
 - **POSCO 청년 AI·Big Data 아카데미 32기** — **프로젝트 최우수상 / 성적 우수상** (2026)
 - **제4회 중앙대학교 데이터분석 학회 DArt-B 학술제** — **대상** (2025) | *데이터 분석 · ML 모델링*
 - **제3회 중앙대학교 데이터분석 학회 DArt-B 학술제** — **최우수상** (2024) | *데이터 분석*
 - **2025 중앙대학교 경영경제대학 학술제** — **장려상** (2025) | *텍스트 마이닝 · 감정 분석*
-
----
-
-### 💻 Projects (Highlight)
-
-| 프로젝트 | 역할 | 설명 |
-| --- | --- | --- |
-| **AI 홈 시네마 음향 자동 최적화** | 모델링 · 분석 | ConvNeXT·PANNs·Gate Fusion 기반 공간 인식 모델링 |
-| **새벽배송 고객 구매 패턴 & 수요 예측** | 데이터 분석 | RFM·코호트·연관·회귀분석으로 매출 증대 전략 도출 |
-| **피로도 지수 기반 투수 교체 가이드라인** | ML 모델링 | XGBoost·LightGBM·SHAP으로 실무 활용 가이드 제시 |
-| **취업 준비 과정 감정 데이터 분석** | NLP · 분석 | 감정 분류 + 토픽 모델링으로 취업 지원 제도 개선안 제시 |
-| **이커머스 고객 세분화 & 마케팅 전략** | 데이터 분석 | RFM 기반 세그먼트 정의 및 맞춤형 전략 도출 |
